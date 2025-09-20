@@ -59,6 +59,24 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.axonframework/axon-spring-boot-starter -->
+        <dependency>
+            <groupId>org.axonframework</groupId>
+            <artifactId>axon-spring-boot-starter</artifactId>
+            <version>4.12.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>33.5.0-jre</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/io.axoniq/axonserver-connector-java -->
+        <dependency>
+            <groupId>io.axoniq</groupId>
+            <artifactId>axonserver-connector-java</artifactId>
+            <version>2025.1.1</version>
+        </dependency>
     </dependencies>
     <dependencyManagement>
         <dependencies>
