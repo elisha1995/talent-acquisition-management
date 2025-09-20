@@ -1,5 +1,6 @@
 .idea/
 .DS_Store
+.DS_Store/
 node_modules/
 dist/
 .env
@@ -9,3 +10,9 @@ coverage/
 .vscode/
 *.swp
 *.swo
+.idea/vcs.xml
+AxonServer-2025.1.4/
+career-portal-service/.DS_Store
+talent-fulfillment-service/.DS_Store
+talent-request-service/.DS_Store
+tams-api-gateway/.DS_Store

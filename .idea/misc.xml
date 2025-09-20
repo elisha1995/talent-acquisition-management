@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/career-portal-service/pom.xml" />
         <option value="$PROJECT_DIR$/tams-discovery-service/pom.xml" />
         <option value="$PROJECT_DIR$/tams-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/tams-core-api/pom.xml" />
       </list>
     </option>
   </component>
